@@ -1,4 +1,4 @@
-## Use as Extension
+## Introducing Micro:BIT
 
 This repository can be added as an **extension** in MakeCode.
 

@@ -1,6 +1,3 @@
-
-> Open this page at [https://schwoegi.github.io/microbit_compass/](https://schwoegi.github.io/microbit_compass/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
